@@ -4,5 +4,15 @@ body{
 }
 
 header { 
-    border-bottom: solid 2px rgb;
+    border-bottom: solid 2px rgba(35, 176, 241, 0.781) (42, 122, 228 );
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(41, 180, 235);
 }
+ section{ 
+    background-color:rgb(39, 168, 228);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display:flex;
+    justify-content: center;
+ }
